@@ -1,2 +1,2 @@
 # prop-planner
-properties of app 'planner-microservices'
+properties of the app 'planner-microservices'
